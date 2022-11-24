@@ -35,7 +35,7 @@ public class App {
         FileUtil.writeDataToFile(ProductDataPath, productList);
         FileUtil.writeDataToFile(BillDataPath, billList);
     }
-
+ 
     public static void main(String[] args) {
         init();
         start();
