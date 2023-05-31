@@ -55,4 +55,5 @@ Contributions to the Food & Drink Ordering Management System project are welcome
 - Nguyen Minh Tuan ([GitHub](https://github.com/tnowad))
 - Bui Hong Bao ([GitHub](https://github.com/BuiBao3103))
 - Mai Trung Chinh ([GitHub](https://github.com/MaiTrungChinhh))
-- Do The Tung ([GitHub](https://github.com/omodtung))
+- Do The Tung ([GitHub](https://github.com/omodtung)
+- 
